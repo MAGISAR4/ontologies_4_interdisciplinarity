@@ -1,6 +1,6 @@
-Liste des webinaires
+# Liste des webinaires
 
-## Ontologies géospatiales: progrès et challenges ouverts » 
+## Ontologies géospatiales: progrès et challenges ouverts 
 
 - Présentateur : Christophe Claramunt
 - Date : Mercredi 30 mars 2022 - 14h-16h
