@@ -1,9 +1,10 @@
-# project
-Ontologies pour l'interdisciplinarité
+# Ontologies pour l'interdisciplinarité
 
 ## Contact
 
-Action de recherche du GdR CNRS MAGIS
+Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.imag.fr/)
+
+![logo](VersionsLogoMagis-Fond_blanc.jpeg)
 
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
 - [Christine](cplumejeaud@gmail.com)
