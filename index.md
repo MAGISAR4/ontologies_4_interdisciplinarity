@@ -13,7 +13,11 @@ Si vous souhaitez participez à cette action de recherche, vous pouvez contacter
 - et/ou [vous inscrire](
 https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de diffusion ontodisciplinarite@groupes.renater.fr
 
-## Objectif
+## Activités
+
+- [Liste des webinaires et accès aux présentations](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/tree/main/webinaires) 
+
+## Présentation
 
 Lors des réunions ouvertes des assises de Juin 2020 du GdR CNRS MAGIS, les participants nombreux (une trentaine) ont exprimé leur intérêt pour le sujet traité par l’action prospective "Ontologies et dynamiques spatiales" entre 2016 et 2021. Ce projet qui est renouvellé comme une Action de Recherche (AR) du GdR CNRS MAGIS est ouvert à de nouvelles participations.
  
