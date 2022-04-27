@@ -4,7 +4,7 @@ Liste des webinaires
 
 - Présentateur : Christophe Claramunt
 - Date : Mercredi 30 mars 2022 - 14h-16h
-- [PDF]()
+- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
 
 ## Annotation sémantique d'image médicales - les projets CYTOMINE et BigPicture
 
