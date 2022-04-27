@@ -16,8 +16,24 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 
 ## Activités
 
-- [Liste des webinaires et accès aux présentations](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/tree/main/webinaires) 
+<!-- - [Liste des webinaires et accès aux présentations](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/tree/main/webinaires) -->
 
+### Ontologies géospatiales: progrès et challenges ouverts 
+
+- Présentateur : Christophe Claramunt
+- Date : Mercredi 30 mars 2022 - 14h-16h
+- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
+
+### Annotation sémantique d'image médicales - les projets CYTOMINE et BigPicture
+
+- Présentateur : Raphael Marée
+- Date : 27 septembre 2022, 13h30-15h30
+
+### Titre à confirmer : ontologies pour la télédétection
+
+- Présentatrice : Mariana Belgiu
+- début 2023 ?
+- 
 ## Présentation
 
 Lors des réunions ouvertes des assises de Juin 2020 du GdR CNRS MAGIS, les participants nombreux (une trentaine) ont exprimé leur intérêt pour le sujet traité par l’action prospective "Ontologies et dynamiques spatiales" entre 2016 et 2021. Ce projet qui est renouvellé comme une Action de Recherche (AR) du GdR CNRS MAGIS est ouvert à de nouvelles participations.
