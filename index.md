@@ -32,8 +32,14 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 ### Titre à confirmer : ontologies pour la télédétection
 
 - Présentatrice : Mariana Belgiu
-- début 2023 ?
-- 
+- Date : Vendredi 20 janvier 2023, 13h30-15h30
+
+### Atelier 2022 
+
+En présentiel à la MSH de Tours. **28 et 29 novembre 2022**
+Thème : CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?
+Programme qui se finalise. 
+
 ## Présentation
 
 Lors des réunions ouvertes des assises de Juin 2020 du GdR CNRS MAGIS, les participants nombreux (une trentaine) ont exprimé leur intérêt pour le sujet traité par l’action prospective "Ontologies et dynamiques spatiales" entre 2016 et 2021. Ce projet qui est renouvellé comme une Action de Recherche (AR) du GdR CNRS MAGIS est ouvert à de nouvelles participations.
