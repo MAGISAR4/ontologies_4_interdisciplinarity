@@ -14,4 +14,4 @@
 ## Titre à confirmer : ontologies pour la télédétection
 
 - Présentatrice : Mariana Belgiu (Univ. Twente aux Pays-Bas)
-- Date : vendredi 20/01, 13h30-15h30
+- Date : vendredi 20 janvier 2023, 13h30-15h30
