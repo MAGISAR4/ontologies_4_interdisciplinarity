@@ -28,7 +28,8 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 
 - Présentateur : Raphael Marée
 - Date : 27 septembre 2022, 13h30-15h30
-
+- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/Cytomine_GIS_Sept2022.pdf)
+- 
 ### Titre à confirmer : ontologies pour la télédétection
 
 - Présentatrice : Mariana Belgiu
