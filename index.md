@@ -42,14 +42,16 @@ Thème : CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?
 Programme :  
 
 28 novembre 14h-17h, hybride, AP Ontologies et dynamiques spatiales du GdR MAGIS
-    - Thérèse Libourel, présentation de WordNet
-    - Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game
+
+- Thérèse Libourel, présentation de WordNet
+- Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game
 
 29 novembre 9h-12h30, hybride, GT WebSem de la MSH Val de Loire + AP Ontologies et dynamiques spatiales du GdR MAGIS + GT SeWin du RTR DIAMS
-    - Emilio Sanfilippo, Towards a formal model for artworks' interpretations ou Towards a formal model for scholarly interpretations
-    - Thomas Francart, SPANATURAL
-    - Florian Hivert, OpenArchaeo
-    - Béatrice Markhoff, une ontologie pour les jumeaux numériques du patrimoine culturel
+
+- Emilio Sanfilippo, Towards a formal model for artworks' interpretations ou Towards a formal model for scholarly interpretations
+- Thomas Francart, SPANATURAL
+- Florian Hivert, OpenArchaeo
+- Béatrice Markhoff, une ontologie pour les jumeaux numériques du patrimoine culturel
 
 ## Présentation
 
