@@ -35,23 +35,45 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 - Présentatrice : Mariana Belgiu
 - Date : Vendredi 20 janvier 2023, 13h30-15h30
 
-### Atelier 2022 
+### Atelier des 28 & 29 novembre 2022 
 
-En présentiel à la MSH de Tours. **28 et 29 novembre 2022**
+En présentiel à la MSH Val de Loire & distanciel via Zoom. **28 et 29 novembre 2022**
+co-organisé avec le GT WebSem de la MSH Val de Loire et le GT SeWin du RTR DIAMS
 Thème : CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?
+
+Programme complet et définitif [en ligne ici](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/Journ%C3%A9es_ontologies_websemantique_28-29Nov2022.pdf)
+
+Inscription en présentiel avant le 20/11/2022 :
+https://groupes.renater.fr/limesurvey/index.php/987619?newtest=Y&lang=fr
+
+
 Programme :  
 
-28 novembre 14h-17h, hybride, AP Ontologies et dynamiques spatiales du GdR MAGIS
+Lundi 28 novembre 2022 10h-12h - Groupe de Travail Web Sémantique MSH Val de Loire/Huma-Num
+
+- Projet européen 4CH ∙ Béatrice Markhoff
+- Web sémantique et ontologie pour une cartographie des compétences du patrimoine culturel : Yannick Duthé et Béatrice Markhoff
+
+28 novembre 14h-17h, hybride, AP Ontologies pour l'interdisciplinarité du GdR MAGIS
 
 - Thérèse Libourel, présentation de WordNet
 - Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game
 
-29 novembre 9h-12h30, hybride, GT WebSem de la MSH Val de Loire + AP Ontologies et dynamiques spatiales du GdR MAGIS + GT SeWin du RTR DIAMS
+29 novembre 9h-12h30, hybride, GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS
 
-- Emilio Sanfilippo, Towards a formal model for artworks' interpretations ou Towards a formal model for scholarly interpretations
-- Thomas Francart, SPANATURAL
-- Florian Hivert, OpenArchaeo
-- Béatrice Markhoff, une ontologie pour les jumeaux numériques du patrimoine culturel
+- Emilio Sanfilippo, Towards a formal model for scholarly interpretations
+- Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique ∙
+- Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs
+- Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs
+
+
+29 novembre 2022 14h-17h - GT SeWin du RTR DIAMS
+
+- Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux 
+- Yannick Duthé, Cartographie des compétences du patrimoine culturel 
+- Christelle Loiselet, Actions pour la sémantisation des données au BRGM
+- Imad Laouici, Structuration de la connaissance en géologie structurale
+- Christine Le-Bas, Annotation sémantique des données de l’INRAe Orléans
 
 ## Présentation
 
