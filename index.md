@@ -2,7 +2,7 @@
 
 ## Contact
 
-Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.imag.fr/)
+Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
 
 ![logo](VersionsLogoMagis-Fond_blanc.jpeg)
 
