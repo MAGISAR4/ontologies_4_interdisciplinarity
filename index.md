@@ -30,7 +30,7 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 - Date : 27 septembre 2022, 13h30-15h30
 - [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/Cytomine_GIS_Sept2022.pdf)
 
-### Titre à confirmer : ontologies pour la télédétection
+### Incorporating domain knowledge in the analysis of remote sensing data
 
 - Présentatrice : Mariana Belgiu
 - Date : Vendredi 20 janvier 2023, 13h30-15h30
