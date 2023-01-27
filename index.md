@@ -34,6 +34,7 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 
 - Présentatrice : Mariana Belgiu
 - Date : Vendredi 20 janvier 2023, 13h30-15h30
+- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
 
 ### Atelier des 28 & 29 novembre 2022 
 
