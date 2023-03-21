@@ -36,6 +36,12 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 - Date : Vendredi 20 janvier 2023, 13h30-15h30
 - [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
 
+### L'interdisciplinarité: taxonomie, flou et interalogie
+
+- Présentatrice : Deborah Nourrit
+- Date : Vendredi 26 mai 2023, 13h-15h
+
+
 ### Atelier des 28 & 29 novembre 2022 
 
 En présentiel à la MSH Val de Loire & distanciel via Zoom. **28 et 29 novembre 2022**
