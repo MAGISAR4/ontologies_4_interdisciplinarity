@@ -7,10 +7,9 @@ Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
 ![logo](VersionsLogoMagis-Fond_blanc.jpeg)
 
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
-- [Christine](cplumejeaud@gmail.com)
 - [Eric](eric.masson@univ-lille.fr)
-- [Mireille](Mireille.Fargette@ird.fr)
 - [Damien](damien.arvor@gmail.com)
+- [Raphaelle](raphaelle.krummeich@univ-rouen.fr)
 - et/ou [vous inscrire](
 https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de diffusion ontodisciplinarite@groupes.renater.fr
 
