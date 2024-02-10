@@ -7,9 +7,9 @@ Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
 ![logo](VersionsLogoMagis-Fond_blanc.jpeg)
 
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
-- [Eric](eric.masson@univ-lille.fr)
-- [Damien](damien.arvor@gmail.com)
-- [Raphaelle](raphaelle.krummeich@univ-rouen.fr)
+- [Eric](mailto:eric.masson@univ-lille.fr)
+- [Damien](mailto:damien.arvor@gmail.com)
+- [Raphaelle](mailto:raphaelle.krummeich@univ-rouen.fr)
 - et/ou [vous inscrire](
 https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de diffusion ontodisciplinarite@groupes.renater.fr
 
@@ -48,10 +48,6 @@ co-organisé avec le GT WebSem de la MSH Val de Loire et le GT SeWin du RTR DIAM
 Thème : CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?
 
 Programme complet et définitif [en ligne ici](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/Journ%C3%A9es_ontologies_websemantique_28-29Nov2022.pdf)
-
-Inscription en présentiel avant le 20/11/2022 :
-https://groupes.renater.fr/limesurvey/index.php/987619?newtest=Y&lang=fr
-
 
 Programme :  
 
