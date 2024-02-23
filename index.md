@@ -4,7 +4,7 @@
 
 Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
 
-![logo](VersionsLogoMagis-Fond_blanc.jpeg)
+![logo](img/Logo-GDR_MAGIS_2048x579_AR4.png)
 
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
 - [Eric](mailto:eric.masson@univ-lille.fr)
@@ -45,39 +45,36 @@ https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de di
 
 En présentiel à la MSH Val de Loire & distanciel via Zoom. **28 et 29 novembre 2022**
 co-organisé avec le GT WebSem de la MSH Val de Loire et le GT SeWin du RTR DIAMS
-Thème : CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?
+**Thème : CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?**
 
-Programme complet et définitif [en ligne ici](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/Journ%C3%A9es_ontologies_websemantique_28-29Nov2022.pdf)
+Télécharger le programme [en ligne ici](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/Journ%C3%A9es_ontologies_websemantique_28-29Nov2022.pdf)
 
-Programme :  
+#### Programme
 
-Lundi 28 novembre 2022 10h-12h - Groupe de Travail Web Sémantique MSH Val de Loire/Huma-Num
+- Lundi 28 novembre 2022 
 
-- Projet européen 4CH ∙ Béatrice Markhoff
-- Web sémantique et ontologie pour une cartographie des compétences du patrimoine culturel : Yannick Duthé et Béatrice Markhoff
+    - 10h-12h - Groupe de Travail Web Sémantique MSH Val de Loire/Huma-Num  
+        - Projet européen 4CH ∙ Béatrice Markhoff  
+        - Web sémantique et ontologie pour une cartographie des compétences du patrimoine culturel : Yannick Duthé et Béatrice Markhoff  
+    - 14h-17h - AP Ontologies pour l'interdisciplinarité du GdR MAGIS (hybride)   
+        - Thérèse Libourel, présentation de WordNet  
+        - Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game  
 
-28 novembre 14h-17h, hybride, AP Ontologies pour l'interdisciplinarité du GdR MAGIS
+- mardi 29 novembre 2022
 
-- Thérèse Libourel, présentation de WordNet
-- Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game
+    - 9h-12h30 - GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS (hybride)  
+        - Emilio Sanfilippo, Towards a formal model for scholarly interpretations  
+        - Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique ∙ 
+        - Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs  
+        - Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs  
+    - 14h-17h - GT SeWin du RTR DIAMS  
+        - Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux  
+        - Yannick Duthé, Cartographie des compétences du patrimoine culturel  
+        - Christelle Loiselet, Actions pour la sémantisation des données au BRGM  
+        - Imad Laouici, Structuration de la connaissance en géologie structurale  
+        - Christine Le-Bas, Annotation sémantique des données de l’INRAe Orléans  
 
-29 novembre 9h-12h30, hybride, GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS
-
-- Emilio Sanfilippo, Towards a formal model for scholarly interpretations
-- Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique ∙
-- Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs
-- Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs
-
-
-29 novembre 2022 14h-17h - GT SeWin du RTR DIAMS
-
-- Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux 
-- Yannick Duthé, Cartographie des compétences du patrimoine culturel 
-- Christelle Loiselet, Actions pour la sémantisation des données au BRGM
-- Imad Laouici, Structuration de la connaissance en géologie structurale
-- Christine Le-Bas, Annotation sémantique des données de l’INRAe Orléans
-
-## Présentation
+## Présentation de l'AR
 
 Lors des réunions ouvertes des assises de Juin 2020 du GdR CNRS MAGIS, les participants nombreux (une trentaine) ont exprimé leur intérêt pour le sujet traité par l’action prospective "Ontologies et dynamiques spatiales" entre 2016 et 2021. Ce projet qui est renouvellé comme une Action de Recherche (AR) du GdR CNRS MAGIS est ouvert à de nouvelles participations.
  
@@ -122,15 +119,15 @@ La dernière année, nous travaillerons sur la production d’un ouvrage synthé
  
 ### Bibliographie
  
-  Arp, R., Smith, B., & Spear, A. D. (2015). Building ontologies with Basic Formal Ontology. Massachusetts Institute of Technology.
-  Bennett, B. (2001). What Is a Forest? on the Vagueness of Certain Geographic Concepts. Topoi, 20(2), 189–201. https://doi.org/10.1023/A:1017965025666
-  Bouleau, N. (2017). Penser l’éventuel. Editions Quae. https://doi.org/10.3917/quae.boule.2017.01
-  Claramunt, C. (2020). Ontologies for geospatial information: Progress and challenges ahead. Journal of Spatial Information Science, 20, 35–41. https://doi.org/10.5311/JOSIS.2020.20.666
-  George, C. (1997). Polymorphisme du raisonnement humain. Presses Universitaires de France. https://doi.org/10.3917/puf.georg.1997.01
-  Heller, M. (1990). The ontology of physical objects: Four-dimensional hunks of matter. Cambridge University Press. https://doi.org/10.1017/CBO9781139166409
-  Hochberg, H. (1999). Review of A World of States of Affairs. Noûs, 33(3), 473–495. https://www.jstor.org/stable/2671997
-  Janowicz, K. (2012). Observation‐Driven Geo‐Ontology Engineering. Transactions in GIS, 16(3), 351–374. https://doi.org/10.1111/j.1467-9671.2012.01342.x
-  Krivine, H., & Ameisen, J. C. (2018). Comprendre sans prévoir, prévoir sans comprendre. Cassini.
-  Munn, K., & Smith, B. (Eds.). (2008). Applied Ontology: An Introduction. DE GRUYTER. https://doi.org/10.1515/9783110324860
-  Richard, S. (2010). Analyse et ontologie: le renouveau de la métaphysique dans la tradition analytique. J. Vrin.
-  Small, C. (2021). Grand Challenges in Remote Sensing Image Analysis and Classification. Frontiers in Remote Sensing, 1, 605220. https://doi.org/10.3389/frsen.2020.605220
+  Arp, R., Smith, B., & Spear, A. D. (2015). Building ontologies with Basic Formal Ontology. Massachusetts Institute of Technology.  
+  Bennett, B. (2001). What Is a Forest? on the Vagueness of Certain Geographic Concepts. Topoi, 20(2), 189–201. https://doi.org/10.1023/A:1017965025666  
+  Bouleau, N. (2017). Penser l’éventuel. Editions Quae. https://doi.org/10.3917/quae.boule.2017.01  
+  Claramunt, C. (2020). Ontologies for geospatial information: Progress and challenges ahead. Journal of Spatial Information Science, 20, 35–41. https://doi.org/10.5311/JOSIS.2020.20.666  
+  George, C. (1997). Polymorphisme du raisonnement humain. Presses Universitaires de France. https://doi.org/10.3917/puf.georg.1997.01  
+  Heller, M. (1990). The ontology of physical objects: Four-dimensional hunks of matter. Cambridge University Press. https://doi.org/10.1017/CBO9781139166409  
+  Hochberg, H. (1999). Review of A World of States of Affairs. Noûs, 33(3), 473–495. https://www.jstor.org/stable/2671997  
+  Janowicz, K. (2012). Observation‐Driven Geo‐Ontology Engineering. Transactions in GIS, 16(3), 351–374. https://doi.org/10.1111/j.1467-9671.2012.01342.x  
+  Krivine, H., & Ameisen, J. C. (2018). Comprendre sans prévoir, prévoir sans comprendre. Cassini.  
+  Munn, K., & Smith, B. (Eds.). (2008). Applied Ontology: An Introduction. DE GRUYTER. https://doi.org/10.1515/9783110324860  
+  Richard, S. (2010). Analyse et ontologie: le renouveau de la métaphysique dans la tradition analytique. J. Vrin.  
+  Small, C. (2021). Grand Challenges in Remote Sensing Image Analysis and Classification. Frontiers in Remote Sensing, 1, 605220. https://doi.org/10.3389/frsen.2020.605220  
