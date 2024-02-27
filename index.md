@@ -1,11 +1,8 @@
-# Ontologies pour l'interdisciplinarité
-
-## Contact
+![logo](img/2021-02_Logo-GDR_MAGIS_AR4.png)
 
 Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
 
-![logo](img/Logo-GDR_MAGIS_2048x579_AR4.png)
-
+## Contact
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
 - [Eric](mailto:eric.masson@univ-lille.fr)
 - [Damien](mailto:damien.arvor@gmail.com)
