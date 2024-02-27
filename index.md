@@ -1,7 +1,7 @@
 
-_`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/blob/main/index.md)
+_`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/index.md)
 
-[![GitHub Logo](assets/user/github.png)](https://github.com/Madouck/markdown-pages)
+[![GitHub Logo](assets/user/github.png)](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/tree/main)
 [Home](.)
 [contact](?page=contact)
 
