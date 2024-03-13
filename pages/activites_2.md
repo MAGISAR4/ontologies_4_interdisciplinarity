@@ -1,5 +1,5 @@
 
-_`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/pages/activites_2.md)
+_`Last Updated: 13/03/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/pages/activites_2.md)
 
 [![GitHub Logo](assets/user/github.png)](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity)
 [Home](.)
@@ -18,6 +18,7 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 
 - Présentatrice : Deborah Nourrit
 - Date : Vendredi 26 mai 2023, 13h-15h
+- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/taxonomie-flou-dispositions-interalogie.pdf)  
 
 #### Incorporating domain knowledge in the analysis of remote sensing data
 
