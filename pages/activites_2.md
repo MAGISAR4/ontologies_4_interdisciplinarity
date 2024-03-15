@@ -18,23 +18,23 @@ _`Last Updated: 13/03/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 
 - Présentatrice : Deborah Nourrit
 - Date : Vendredi 26 mai 2023, 13h-15h
-- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/taxonomie-flou-dispositions-interalogie.pdf)  
+- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/webinaires/taxonomie-flou-dispositions-interalogie.pdf)  
 
 #### Incorporating domain knowledge in the analysis of remote sensing data
 
 - Présentatrice : Mariana Belgiu
 - Date : Vendredi 20 janvier 2023, 13h30-15h30
-- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
+- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/webinaires/GeoSpatialOntologiesCC.pdf)
 
 #### Annotation sémantique d'image médicales - les projets CYTOMINE et BigPicture
 
 - Présentateur : Raphael Marée
 - Date : 27 septembre 2022, 13h30-15h30
-- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/Cytomine_GIS_Sept2022.pdf)
+- [PDF](https://github.com/MAGISAR4/project/raw/main/webinaires/Cytomine_GIS_Sept2022.pdf)
 
 #### Ontologies géospatiales: progrès et challenges ouverts 
 
 - Présentateur : Christophe Claramunt
 - Date : Mercredi 30 mars 2022 - 14h-16h
-- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
+- [PDF](https://github.com/MAGISAR4/project/raw/main/webinaires/GeoSpatialOntologiesCC.pdf)
 
