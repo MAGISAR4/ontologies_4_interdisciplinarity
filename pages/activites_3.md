@@ -43,7 +43,7 @@ Télécharger le programme [en ligne ici](https://github.com/MAGISAR4/ontologies
 
 14h-17h | GT SeWin du RTR DIAMS  
 - Béatrice Markhoff, [Ontologie de jumeaux numériques patrimoniaux](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_BM_HeritageDigitalTwin.pdf)  
-- Yannick Duthé, [Cartographie des compétences du patrimoine culturel](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221128_YD_PresentationHeCo_GTSemWeb.pdf)  
+- Yannick Duthé, [Cartographie des compétences du patrimoine culturel](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_YD_presentation-carto4ch-v1.4.pdf)  
 - Christelle Loiselet, [Actions pour la sémantisation des données au BRGM](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_CLB_annotation_semantique_inrae.pdf)  
 - Imad Laouici, [Structuration de la connaissance en géologie structurale](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_IL_StructurationConnaissanceGeologie.pdf)  
 - Christine Le-Bas, [Annotation sémantique des données de l’INRAe Orléans](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_CLB_annotation_semantique_inrae.pdf)  
