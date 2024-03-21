@@ -38,7 +38,7 @@ Télécharger le programme [en ligne ici](https://github.com/MAGISAR4/ontologies
 9h-12h30 | GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS (hybride)  
 - Emilio Sanfilippo, [Towards a formal model for scholarly interpretations](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_ES_FormalModelInterpretation.pdf)  
 - Béatrice Markhoff, [Rôle et manifestations des terminologies dans le Web sémantique](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_BM_TermWebSem.pdf) ∙ 
-- Thomas Francart, [SPANATURAL, montrez les graphes de connaissances à vos utilisateurs](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_TF_SPARNATURAL)  
+- Thomas Francart, [SPANATURAL, montrez les graphes de connaissances à vos utilisateurs](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/SPARNATURAL-ThomasFrancart-20220617.pdf)  
 - Florian Hivert, [OpenArchaeo, un SPARNATURAL destiné à l’archéologie et à ses chercheurs](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/20221129_FH_PresentationOpenArchaeo.pdf)  
 
 14h-17h | GT SeWin du RTR DIAMS  
