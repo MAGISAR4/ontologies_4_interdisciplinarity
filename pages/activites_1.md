@@ -14,5 +14,8 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 
 ### Webinaire 2024/2023
 
-**[Work in progress]**
+#### Les ontologies pour la description du relief
 
+- Présentateur : Eric Guilbert, Professeur agrégé, Faculté de foresterie, de géographie et de géomatique et Directeur du Centre de Recherche en Données et Intelligence Géospatiales, université de Laval, Québec
+- Date : jeudi 20 juin, 15h
+- Résumé : Cette conférence abordera les questions de modélisation géométrique et de topologie pour déployer des ontologies de traitement de données raster ou vectorielles.
