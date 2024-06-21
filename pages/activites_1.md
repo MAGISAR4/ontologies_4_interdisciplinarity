@@ -18,4 +18,5 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 
 - Présentateur : Eric Guilbert, Professeur agrégé, Faculté de foresterie, de géographie et de géomatique et Directeur du Centre de Recherche en Données et Intelligence Géospatiales, université de Laval, Québec
 - Date : jeudi 20 juin, 15h
-- Résumé : Cette conférence abordera les questions de modélisation géométrique et de topologie pour déployer des ontologies de traitement de données raster ou vectorielles.
+- Résumé : Cette conférence abordera les questions de modélisation géométrique et de topologie pour déployer des ontologies de traitement de données raster ou vectorielles.  
+- [PDF](https://github.com/MAGISAR4/project/raw/main/webinaires/les_ontologies_pour_le_relief_juin_2024.pdf)
