@@ -46,7 +46,7 @@ L'AR dispose d'un [groupe zotero](https://www.zotero.org/groups/5401797/magisar4
 
 ### Atelier thématique 29/10/2024 | Topologie, topographie, toponymie - la localisation dans les ontologies [WIP]
 
-En présentiel à la MSH Val de Loire & distanciel **30 octobre 2024**, co-organisé avec le GT WebSem de la MSH Val de Loire.
+En présentiel à la MSH Val de Loire & distanciel **29 octobre 2024**, co-organisé avec le GT WebSem de la MSH Val de Loire.
 
 (Programme à venir)
 
