@@ -14,7 +14,7 @@ _`Last Updated: 16/07/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 
 ### Atelier thématique 29/10/2024 | Topologie, topographie, toponymie - la localisation dans les ontologies [WIP]
 
-En présentiel à la MSH Val de Loire & distanciel **30 octobre 2024**, co-organisé avec le GT WebSem de la MSH Val de Loire.
+En présentiel à la MSH Val de Loire & distanciel **29 octobre 2024**, co-organisé avec le GT WebSem de la MSH Val de Loire.
 
 (Programme à venir)
 
