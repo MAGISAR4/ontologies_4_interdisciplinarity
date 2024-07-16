@@ -1,5 +1,5 @@
 
-_`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/README.md)
+_`Last Updated: 16/07/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/README.md)
 **[WORK IN PROGRESS]**
 
 [**|> Lire en ligne**](https://magisar4.github.io/ontologies_4_interdisciplinarity/)
