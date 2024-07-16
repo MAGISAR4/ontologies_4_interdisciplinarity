@@ -26,7 +26,7 @@ Si vous le souhaitez, vous pouvez [vous inscrire](https://groupes.renater.fr/sym
 
 ## Espace d'élaboration collaborative Hackmd
 
-Un espace d'échanges et d'élaboration collective est à [votre disposition sur l'espace hackmd de l'AR4](https://hackmd.io/join/rk3xWHcj6).
+Un espace d'échanges et d'élaboration collective est à [votre disposition sur l'espace hackmd de l'AR4](https://hackmd.io/@MAGISAR4). Il est possible de rejoindre l'équipe en créant un compte gratuit sur hackmd via [ce lien d'invitation](https://hackmd.io/join/rk3xWHcj6).
 
 ## Groupe Zotero
 
