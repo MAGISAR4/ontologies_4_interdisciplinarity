@@ -8,8 +8,8 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 ![entête](img/2021-02_Icoentete-GDR_MAGIS_AR4.png)
 
 ---
-| [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |
-|---|---|---|
+| [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) | [Espace collaboratif Hackmd](https://hackmd.io/team/MAGISAR4) |
+|---|---|---|---|
 
 [**|> Accès au support de présentation de l'AR4 le 22 mars 2022**](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/assises/AR_ontologies_interdisciplinarite_2022_22mars2022.pdf)
 

@@ -8,8 +8,8 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 ![entête](img/2021-02_Icoentete-GDR_MAGIS_AR4.png)
 
 ---
-| [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |
-|---|---|---|
+| [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) | [Espace collaboratif Hackmd](https://hackmd.io/team/MAGISAR4) |
+|---|---|---|---|
 
 **[|> Accéder à la bibliothèque du groupe zotero GdR MAGIS|AR4](https://www.zotero.org/groups/5401797/magisar4)**
 
