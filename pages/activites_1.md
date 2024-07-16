@@ -21,4 +21,4 @@ _`Last Updated: 16/07/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 - Résumé : Cette conférence abordera les questions de modélisation géométrique et de topologie pour déployer des ontologies de traitement de données raster ou vectorielles.  
 - [PDF](https://github.com/MAGISAR4/project/raw/main/webinaires/les_ontologies_pour_le_relief_juin_2024.pdf)
 
-[![Vidéo](<iframe width="720" height="530" src="https://webtv.univ-rouen.fr/permalink/v1268a8b216368lkj2sf/iframe/" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>)](https://webtv.univ-rouen.fr/permalink/v1268a8b216368lkj2sf/iframe/)
+[![Accéder à la vidéo](https://github.com/MAGISAR4/project/raw/main/img/video_img.png)](https://webtv.univ-rouen.fr/permalink/v1268a8b216368lkj2sf/iframe/)
