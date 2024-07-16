@@ -18,4 +18,4 @@ En présentiel à la MSH Val de Loire & distanciel **29 octobre 2024**, co-organ
 
 (Programme à venir)
 
-Un espace d'échanges et d'élaboration collective en préparation de l'atelier est à [votre disposition sur l'espace hackmd de l'AR](https://hackmd.io/join/rk3xWHcj6).
+Un espace d'échanges et d'élaboration collective en préparation de l'atelier est à [votre disposition sur l'espace hackmd de l'AR](https://hackmd.io/@MAGISAR4). Il est possible de participer en vous joingnant à l'équipe par [ce lien d'invitation](https://hackmd.io/join/rk3xWHcj6).
