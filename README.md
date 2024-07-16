@@ -24,13 +24,31 @@ Si vous souhaitez participez à cette action de recherche, vous pouvez contacter
 ## Liste de diffusion
 Si vous le souhaitez, vous pouvez [vous inscrire](https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de diffusion `ontodisciplinarite@groupes.renater.fr`.
 
+## Espace d'élaboration collaborative Hackmd
+
+Un espace d'échanges et d'élaboration collective est à [votre disposition sur l'espace hackmd de l'AR4](https://hackmd.io/join/rk3xWHcj6).
+
+## Groupe Zotero
+
+L'AR dispose d'un [groupe zotero](https://www.zotero.org/groups/5401797/magisar4) pour le partage de recherches bibliographiques et de ressources.
+
 ## Activités
 
 <!-- - [Liste des webinaires et accès aux présentations](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/tree/main/webinaires) -->
 
 ### Webinaires 2023/2024
 
-**[à venir]**
+#### Les ontologies pour la description du relief
+
+- Présentateur : Eric Guilbert
+- Date : Jeudi 20 juin 2024, 15h-17h
+- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/les_ontologies_pour_le_relief_juin_2024.pdf)
+
+### Atelier thématique 29/10/2024 | Topologie, topographie, toponymie - la localisation dans les ontologies [WIP]
+
+En présentiel à la MSH Val de Loire & distanciel **30 octobre 2024**, co-organisé avec le GT WebSem de la MSH Val de Loire.
+
+(Programme à venir)
 
 ### Webinaires 2022/2023
 
@@ -38,6 +56,7 @@ Si vous le souhaitez, vous pouvez [vous inscrire](https://groupes.renater.fr/sym
 
 - Présentatrice : Deborah Nourrit
 - Date : Vendredi 26 mai 2023, 13h-15h
+- [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/taxonomie-flou-dispositions-interalogie.pdf)
 
 #### Incorporating domain knowledge in the analysis of remote sensing data
 
@@ -62,36 +81,46 @@ Si vous le souhaitez, vous pouvez [vous inscrire](https://groupes.renater.fr/sym
 En présentiel à la MSH Val de Loire & distanciel via Zoom. **28 et 29 novembre 2022**
 co-organisé avec le GT WebSem de la MSH Val de Loire et le GT SeWin du RTR DIAMS
 
-Télécharger le programme [en ligne ici](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/Journ%C3%A9es_ontologies_websemantique_28-29Nov2022.pdf)
+Télécharger le programme [en ligne ici](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/Journ%C3%A9es_ontologies_websemantique_28-29Nov2022.pdf)
 
 ### Lundi 28 novembre 2022 
 
 **10h-12h - Groupe de Travail Web Sémantique MSH Val de Loire/Huma-Num**
 
-- Projet européen 4CH ∙ Béatrice Markhoff  
-- Web sémantique et ontologie pour une cartographie des compétences du patrimoine culturel : Yannick Duthé et Béatrice Markhoff  
+- Projet européen 4CH ∙ Béatrice Markhoff | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221128_BM_4CH_GTSemWeb.pdf)  
+
+- Web sémantique et ontologie pour une cartographie des compétences du patrimoine culturel : Yannick Duthé et Béatrice Markhoff | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221128_YD_PresentationHeCo_GTSemWeb.pdf)
+
 
 **14h-17h - AP Ontologies pour l'interdisciplinarité du GdR MAGIS (hybride)**
 
-- Thérèse Libourel, présentation de WordNet  
-- Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game  
+- Thérèse Libourel, présentation de WordNet | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221128_TL_Ontowordnet.pdf)
+
+- Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221128_OM_IntroCIDOC.pdf)
 
 ### Mardi 29 novembre 2022
 
 **9h-12h30 - GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS (hybride)**
 
-- Emilio Sanfilippo, Towards a formal model for scholarly interpretations  
-- Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique ∙ 
-- Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs  
-- Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs  
+- Emilio Sanfilippo, Towards a formal model for scholarly interpretations | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_ES_FormalModelInterpretation.pdf) 
+
+- Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_BM_TermWebSem.pdf)∙ 
+
+- Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_TF_SPARNATURAL/Sparnatural-ThomasFrancart-semwebpro-2022-v4.pdf) 
+
+- Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_FH_PresentationOpenArchaeo.pdf) 
 
 **14h-17h - GT SeWin du RTR DIAMS**  
 
-- Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux  
-- Yannick Duthé, Cartographie des compétences du patrimoine culturel  
-- Christelle Loiselet, Actions pour la sémantisation des données au BRGM  
-- Imad Laouici, Structuration de la connaissance en géologie structurale  
-- Christine Le-Bas, Annotation sémantique des données de l’INRAe Orléans  
+- Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_BM_HeritageDigitalTwin.pdf)  
+
+- Yannick Duthé, Cartographie des compétences du patrimoine culturel | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_YD_presentation-carto4ch-v1.4.pdf) 
+
+- Christelle Loiselet, Actions pour la sémantisation des données au BRGM | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_TR_SemantisationBRGM.pdf) 
+
+- Imad Laouici, Structuration de la connaissance en géologie structurale | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_IL_StructurationConnaissanceGeologie.pdf) 
+
+- Christine Le-Bas, Annotation sémantique des données de l’INRAe Orléans | [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/ateliers/20221129_CLB_annotation_semantique_inrae.pdf) 
 
 ## Présentation de l'AR
 
