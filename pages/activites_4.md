@@ -87,7 +87,7 @@ Anaïs Guillem, Antoine Gros, Kévin Réby, Violette Abergel, Livio De Luca. RCC
 
 Krummeich R, Pécout H, Rey-Coyrehourcq S (2024). “Spatio-temporal, Wikidata, exploration de données collaboratives du web 3.0.”, revue Rzine, à paraître, https://rzine-reviews.github.io/wikidata_sparql_rzine/
 
-#### S'inscrire (gratuit, obligatoire, nombre de places limitées)**
+#### S'inscrire (gratuit, obligatoire, nombre de places limitées)
 
 [**Inscription**](https://enquetes-ng.univ-rouen.fr/index.php/469887?lang=fr)
 
