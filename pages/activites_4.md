@@ -13,8 +13,7 @@ _`Last Updated: 16/07/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 | [Webinaire 2023/2024](?page=activites_1) | [Atelier 2023/2024 TOPO(S)](?page=activites_4) |[Webinaire 2022/2023](?page=activites_2) | [Atelier 2022/2023 CIDOC-CRM](?page=activites_3) | 
 
 ### Atelier thématique 29/10/2024 | Toponymie, topographie, topographie - la localisation dans les ontologies [WIP]
-
-En présentiel à la MSH Val de Loire & distanciel **29 octobre 2024**, co-organisé avec le GT WebSem de la MSH Val de Loire.
+![visuel atelier](img/Visuel-MAGIS-241029.png)
 
 #### Programme provisoire
 
@@ -43,19 +42,23 @@ Béatrice Markhoff, CITERES-LAT, Tours
 Raphaëlle Krummeich, UMR IDEES, Rouen
 Eric Masson, TVLS, Lille
 
-- L'atelier se déroule en 4 temps
+#### L'atelier se déroule en 4 temps
 
 *Le matin*
 
-Mot d'accueil, Eric Masson, co-animateur de l'AR4 du GdR MAGIS
+- Mot d'accueil
 
-Introduction générale : poser la problématique de l'information spatiale, et notamment celle de la localisation en lien avec la question temporelle : l'exemple des toponymes dans le champ du patrimoine, Florian Hivert & Béatrice Markhoff
+Eric Masson, co-animateur de l'AR4 du GdR MAGIS
+
+- Introduction générale
+
+Poser la problématique de l'information spatiale, et notamment celle de la localisation en lien avec la question temporelle : l'exemple des toponymes dans le champ du patrimoine, Florian Hivert & Béatrice Markhoff
 
 *Les 2 temps suivants seraient des présentations/conférences avec des données implémentées qu'il est/serait possible pour les participant⋅es de manipuler*
 
-- poser la question du lieu à partir d'un exemple concret / jeu de données / graphe (wikidata vs dbpédia & trajectoire spatio-temporelle d'une oeuvre, Sparnatural & notebook R), R. Krummeich
+- Poser la question du lieu à partir d'un exemple concret / jeu de données / graphe (wikidata vs dbpédia & trajectoire spatio-temporelle d'une oeuvre, Sparnatural & notebook R), R. Krummeich
 
-- enrichir la problématique avec la question de la modélisation spatiale et temporelle de données (sémantique & topologie, Sparnatural & sparql) et les relations spatiales de type RCC8, A. Guillem
+- Enrichir la problématique avec la question de la modélisation spatiale et temporelle de données (sémantique & topologie, Sparnatural & sparql) et les relations spatiales de type RCC8, A. Guillem
 
 *L'après-midi*
 
@@ -63,9 +66,9 @@ Il s'agit de présenter les enjeux d'une approche de modélisation conceptuelle 
 
 *Le 3ème temps est celui du raisonnement sur les données et les modèles conceptuels, dans le cadre d'un discussion fondée sur des études de cas appliqués et la nécessité du dialogue*
 
-- spatialiser les fonctions et le fonctionnement des zones humides, S. Catteau
+- Spatialiser les fonctions et le fonctionnement des zones humides, S. Catteau
 
-- discussions
+- Discussions
 
 #### Éléments bibliographiques
 
@@ -86,6 +89,7 @@ Krummeich R, Pécout H, Rey-Coyrehourcq S (2024). “Spatio-temporal, Wikidata, 
 
 #### S'inscrire (gratuit, obligatoire, nombre de places limitées)**
 
+[**Inscription**](https://enquetes-ng.univ-rouen.fr/index.php/469887?lang=fr)
 
 #### Espace d'échanges
 
