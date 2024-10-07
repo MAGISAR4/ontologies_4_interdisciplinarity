@@ -15,7 +15,6 @@ _`Last Updated: 16/07/2024`_ [`edit`](https://github.com/MAGISAR4/ontologies_4_i
 ### Atelier thématique 29/10/2024 | Toponymie, topographie, topographie - la localisation dans les ontologies [WIP]
 ![visuel atelier](img/Visuel-MAGIS-241029.png)
 
-#### Programme provisoire
 
 - intitulé de l'atelier : **TOPO(S)**
 
@@ -42,33 +41,42 @@ Béatrice Markhoff, CITERES-LAT, Tours
 Raphaëlle Krummeich, UMR IDEES, Rouen
 Eric Masson, TVLS, Lille
 
-#### L'atelier se déroule en 4 temps
+### Programme provisoire
 
-*Le matin*
+#### Matinée (9h30-12h30)
 
-- Mot d'accueil
+9h30 Mot d'accueil, Eric Masson, co-animateur de l'AR4 du GdR MAGIS
 
-Eric Masson, co-animateur de l'AR4 du GdR MAGIS
+10h Introduction générale, Florian Hivert & Béatrice Markhoff, MSH Val de Loire 
+- poser la problématique de l'information spatiale, et notamment celle de la localisation en lien avec la question temporelle - l'exemple des toponymes dans le champ du patrimoine
 
-- Introduction générale
 
-Poser la problématique de l'information spatiale, et notamment celle de la localisation en lien avec la question temporelle : l'exemple des toponymes dans le champ du patrimoine, Florian Hivert & Béatrice Markhoff
+10h30 Ateliers thématiques
 
 *Les 2 temps suivants seraient des présentations/conférences avec des données implémentées qu'il est/serait possible pour les participant⋅es de manipuler*
 
-- Poser la question du lieu à partir d'un exemple concret / jeu de données / graphe (wikidata vs dbpédia & trajectoire spatio-temporelle d'une oeuvre, Sparnatural & notebook R), R. Krummeich
+- La question du lieu à partir d'un exemple concret / jeu de données / graphe (wikidata vs dbpédia & trajectoire spatio-temporelle d'une oeuvre, Sparnatural & notebook R), R. Krummeich, co-animatrice de l'AR4 GdR MAGIS
 
-- Enrichir la problématique avec la question de la modélisation spatiale et temporelle de données (sémantique & topologie, Sparnatural & sparql) et les relations spatiales de type RCC8, A. Guillem
+- La question de la modélisation spatiale et temporelle de données (sémantique & topologie, Sparnatural & sparql) et les relations spatiales de type RCC8, A. Guillem
 
-*L'après-midi*
+- Un temps d’utilisation/manipulation de données implémentées par les participants est prévu sur les deux thématiques du matin
 
-Il s'agit de présenter les enjeux d'une approche de modélisation conceptuelle centrée événement / activité (voir par exemple (Nuninger et al., 2022)) et ceux du dialogue interdisciplinaire permettant d'appréhender la problématique temporelle dans l'information spatiale, notamment (voir (Plumejeaud-Perreau et al., 2022)).
+#### 12h30 Pause repas (gratuit pour les inscrit-es)
+
+#### Après-midi (14h-16h30)
 
 *Le 3ème temps est celui du raisonnement sur les données et les modèles conceptuels, dans le cadre d'un discussion fondée sur des études de cas appliqués et la nécessité du dialogue*
 
-- Spatialiser les fonctions et le fonctionnement des zones humides, S. Catteau
+14h Spatialiser les fonctions et le fonctionnement des zones humides, S. Catteau
 
-- Discussions
+14h45 Table ronde sur les données et les modèles conceptuels à partir de cas appliqués et de la nécessité du dialogue interdisciplinaire (tous les participants)
+
+- Il s'agit de présenter les enjeux d'une approche de modélisation conceptuelle centrée événement / activité (voir par exemple (Nuninger et al., 2022)) et ceux du dialogue interdisciplinaire permettant d'appréhender la problématique temporelle dans l'information spatiale, notamment (voir (Plumejeaud-Perreau et al., 2022))
+- Les participants non communicants sont invités à partager leurs expériences de recherche sur des questions similaires ou voisines de celles abordées durant la journée.
+
+16h Conclusions de l’atelier (E. Masson) 
+- « Topos », un lieu commun de la géomatique ?
+- Appel à idées/discussion pour les prochaines actions de l’AR04
 
 #### Éléments bibliographiques
 
@@ -78,6 +86,12 @@ Studer R., Benjamins V.R., Fensel D., Knowledge engineering: Principles and meth
 1998, Pages 161-197, ISSN 0169-023X, https://doi.org/10.1016/S0169-023X(97)00056-6.
 
 Nuninger, L., Libourel, T., Rodier, X., Opitz, R., Verhagen, P., Fruchart, C., Laplaige, C., Leturcq, S., & Levoguer, N. (2022). Explorer les processus de mobilité passée. Revue Internationale de Géomatique, 31(1‑2), 81‑110. https://doi.org/10.3166/rig31.81-110
+
+Abadie N., Brando C., Frontini F., Evaluation de la qualité des sources du Web de Données pour la résolution d’entités nommées, Revue des Sciences et Technologies de l'Information - Série ISI : Ingénierie des Systèmes d'Information, 2017, Web de données : publication, liage et capitalisation, 21 (5-6), 31-54. https://doi.org/10.3166/ISI.21.5-6.31-54
+
+Cura R., Dumenieu B., Abadie N., Costes B., Perret J., Gribaudi M., Historical collaborative geocoding, ISPRS International Journal of Geo-Information, 2018, 7 (7), pp. 262. https://doi.org/10.3390/ijgi7070262
+
+Khokhlova M., Abadie N., Gouet-Brunet V., Liming ChenGisGCN: A Visual Graph-Based Framework to Match Geographical Areas through Time, ISPRS International Journal of Geo-Information, 2022, 11 (2), pp.97. https://doi.org/10.3390/ijgi7070262
 
 Plumejeaud-Perreau, C., Nahassia, L., & Gravier, J. (2022). Appréhender le changement des catégories pour l’étude d’une dynamique spatiale sur le temps long. Revue Internationale de Géomatique, 31(1‑2), 47‑80. https://doi.org/10.3166/rig31.47-80
 
