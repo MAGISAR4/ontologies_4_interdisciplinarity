@@ -36,47 +36,59 @@ Cet atelier s'inscrit dans le cadre de l'action de recherche "ontologies pour l'
 
 Anaïs Guillem, MAP, Marseille
 Florian Hivert, MSH Val de Loire, Tours
-Suzanne Catteau (sous réserve)
+Suzanne Catteau, géomaticienne & géographe, Docteure de l’université de Bordeaux Montaigne
 Béatrice Markhoff, CITERES-LAT, Tours
-Raphaëlle Krummeich, UMR IDEES, Rouen
-Eric Masson, TVLS, Lille
+Nathalie Abadie, LASTIG – IGN, co-animatrice de l’AR09 du GdR MAGIS
+Raphaëlle Krummeich, UMR IDEES, Rouen, co-animatrice de l’AR04 du GdR MAGIS
+Eric Masson, TVLS, Lille, co-animateur de l’AR04 du GdR MAGIS
 
-### Programme provisoire
+
+### Programme
 
 #### Matinée (9h30-12h30)
 
-9h30 Mot d'accueil, Eric Masson, co-animateur de l'AR4 du GdR MAGIS
+9h30 Mot d'accueil
 
-10h Introduction générale, Florian Hivert & Béatrice Markhoff, MSH Val de Loire 
-- poser la problématique de l'information spatiale, et notamment celle de la localisation en lien avec la question temporelle - l'exemple des toponymes dans le champ du patrimoine
+*Eric Masson, co-animateur de l'AR4 du GdR MAGIS*
+*Béatrice Markhoff, membre du GT WebSem de la MSH Val de Loire*
 
+10h Introduction
+
+*SPARnatural*
+
+Thomas Francart
 
 10h30 Ateliers thématiques
 
-*Les 2 temps suivants seraient des présentations/conférences avec des données implémentées qu'il est/serait possible pour les participant⋅es de manipuler*
+Un temps de manipulation des données est prévu.
 
-- La question du lieu à partir d'un exemple concret / jeu de données / graphe (wikidata vs dbpédia & trajectoire spatio-temporelle d'une oeuvre, Sparnatural & notebook R), R. Krummeich, co-animatrice de l'AR4 GdR MAGIS
+*La question du lieu à partir d'un exemple de jeu de données issu d’un graphe (wikipédia / wikidata) & Sparnatural*
 
-- La question de la modélisation spatiale et temporelle de données (sémantique & topologie, Sparnatural & sparql) et les relations spatiales de type RCC8, A. Guillem
+Raphaëlle Krummeich, co-animatrice de l'AR04 du GdR MAGIS, Ingénieure de recherche, UMR CNRS IDEES & Florian Hivert, membre du GT WebSem de la MSH Val de Loire
 
-- Un temps d’utilisation/manipulation de données implémentées par les participants est prévu sur les deux thématiques du matin
+*RCC8 pour CIDOC CRM : Modélisation sémantique des relations spatiales méréologiques et topologiques de Notre-Dame de Paris*
+
+Anaïs Guillem, Ingénieure de Recherche, ERC n-Dame_Heritage, UPR CNRS MAP
 
 #### 12h30 Pause repas (gratuit pour les inscrit-es)
 
 #### Après-midi (14h-16h30)
 
-*Le 3ème temps est celui du raisonnement sur les données et les modèles conceptuels, dans le cadre d'un discussion fondée sur des études de cas appliqués et la nécessité du dialogue*
+14h00 *Spatialiser les fonctions et le fonctionnement des zones humides par SIG – Bulles de dialogues et cellules raster*
 
-14h Spatialiser les fonctions et le fonctionnement des zones humides, S. Catteau
+Suzanne Catteau, géomaticienne & géographe, Docteure de l’université de Bordeaux Montaigne
 
-14h45 Table ronde sur les données et les modèles conceptuels à partir de cas appliqués et de la nécessité du dialogue interdisciplinaire (tous les participants)
+14h45 *PeGazUs: une approche fondée sur un graphe de connaissances pour construire des gazetiers urbains perpétuels*
 
-- Il s'agit de présenter les enjeux d'une approche de modélisation conceptuelle centrée événement / activité (voir par exemple (Nuninger et al., 2022)) et ceux du dialogue interdisciplinaire permettant d'appréhender la problématique temporelle dans l'information spatiale, notamment (voir (Plumejeaud-Perreau et al., 2022))
-- Les participants non communicants sont invités à partager leurs expériences de recherche sur des questions similaires ou voisines de celles abordées durant la journée.
+Nathalie Abadie, chargée de recherche au LASTIG – IGN, co-animatrice de l’AR09 du GdR MAGIS 
 
-16h Conclusions de l’atelier (E. Masson) 
-- « Topos », un lieu commun de la géomatique ?
-- Appel à idées/discussion pour les prochaines actions de l’AR04
+15h30 Table ronde 
+
+*Il s'agit de présenter les enjeux d'une approche de modélisation conceptuelle centrée événement / activité (voir par exemple Nuninger et al., 2022) et ceux du dialogue interdisciplinaire permettant d'appréhender la problématique temporelle dans l'information spatiale, notamment (voir Plumejeaud-Perreau et al., 2022). Les participants et participantes sont invitées à partager leurs expériences de recherche sur des questions similaires ou voisines de celles abordées durant la journée.*
+
+16h30 Conclusions de l’atelier
+
+*« Topos », un lieu commun de la géomatique ? Appel à idées & discussion pour les prochaines actions de l’AR04.*
 
 #### Éléments bibliographiques
 
